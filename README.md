@@ -2,7 +2,7 @@
 Financial well-being of Vietnamese studentsInvestment Management and Financial Innovations
 2021-12-14 | journal-article
 
-DOI: 10.21511/imfi.18(4).2021.29
+DOI: https://doi.org/10.21511/imfi.18(4).2021.29
 Part of ISSN: 1810-4967
 Part of ISSN: 1812-9358
 Source:Nguyen Minh Sang
@@ -10,127 +10,127 @@ Source:Nguyen Minh Sang
 The most cited publications in the topic of Economic sanctions on Google scholar
 2021-12-14 | data-set
 
-DOI: 10.13140/RG.2.2.36284.77441
+DOI: https://doi.org/10.13140/RG.2.2.36284.77441
 Source:Nguyen Minh Sang
 
 2500 recent publications in the topic of 𝐐𝐮𝐚𝐧𝐭𝐢𝐭𝐚𝐭𝐢𝐯𝐞 𝐅𝐢𝐧𝐚𝐧𝐜𝐞 on the Arxiv
 2021-12 | data-set
 
-DOI: 10.13140/RG.2.2.18616.26880
+DOI: https://doi.org/10.13140/RG.2.2.18616.26880
 Source:Nguyen Minh Sang
 
 6204 publications in the topic of Public debt on the Research Gate
 2021-12 | data-set
 
-DOI: 10.13140/RG.2.2.32329.67680
+DOI: https://doi.org/10.13140/RG.2.2.32329.67680
 Source:Nguyen Minh Sang
 
 The most cited publications in the topic of Bank Complexity on Google scholar
 2021-12 | data-set
 
-DOI: 10.13140/RG.2.2.33335.65440
+DOI: https://doi.org/10.13140/RG.2.2.33335.65440
 Source:Nguyen Minh Sang
 
 The most cited publications in the topic of Blockchain in Banking industry on Google scholar
 2021-12 | data-set
 
-DOI: 10.13140/RG.2.2.35445.91366
+DOI: https://doi.org/10.13140/RG.2.2.35445.91366
 Source:Nguyen Minh Sang
 
 The most cited publications in the topic of Open finance on Google scholar
 2021-12 | data-set
 
-DOI: 10.13140/RG.2.2.26218.44487
+DOI: https://doi.org/10.13140/RG.2.2.26218.44487
 Source:Nguyen Minh Sang
 
 32560 publications in the topic of COVID-19 on the Research Gate
 2021-11-30 | data-set
 
-DOI: 10.13140/RG.2.2.17669.27369
+DOI: https://doi.org/10.13140/RG.2.2.17669.27369
 Source:Nguyen Minh Sang
 
 Critical Factors Affecting Consumer Intention of Using Mobile Banking Applications During COVID-19 Pandemic: An Empirical Study from VietnamThe Journal of Asian Finance, Economics and Business
 2021-11-30 | journal-article
 
-DOI: 10.13106/JAFEB.2021.VOL8.NO11.0157
+DOI: https://doi.org/10.13106/JAFEB.2021.VOL8.NO11.0157
 Source:Nguyen Minh Sang
 
 1334 publications in the topic of Big data in Finance on the Scopus database
 2021-11-28 | data-set
 
-DOI: 10.13140/RG.2.2.21077.14563
+DOI: https://doi.org/10.13140/RG.2.2.21077.14563
 Source:Nguyen Minh Sang
 
 137 publications in the topic of Central Bank Digital Currency (CBDC) on the Scopus database
 2021-11-25 | data-set
 
-DOI: 10.13140/RG.2.2.33696.92161
+DOI: https://doi.org/10.13140/RG.2.2.33696.92161
 Source:Nguyen Minh Sang
 
 List of Scopus Indexed Journals September 2021
 2021-11-24 | data-set
 
-DOI: 10.13140/RG.2.2.25255.88489
+DOI: https://doi.org/10.13140/RG.2.2.25255.88489
 Source:Nguyen Minh Sang
 
 The most cited publications in the topic of Sharing economy on Google scholar
 2021-11-21 | data-set
 
-DOI: 10.13140/RG.2.2.20786.32963
+DOI: https://doi.org/10.13140/RG.2.2.20786.32963
 Source:Nguyen Minh Sang
 
 134 publications in the topic of Entrepreneurial finance on the Scopus database
 2021-11-20 | data-set
 
-DOI: 10.13140/RG.2.2.19534.59208
+DOI: https://doi.org/10.13140/RG.2.2.19534.59208
 Source:Nguyen Minh Sang
 
 1998 publications in the topic of Text mining in the business and economic field on the Scopus database
 2021-11-20 | data-set
 
-DOI: 10.13140/RG.2.2.29577.98405
+DOI: https://doi.org/10.13140/RG.2.2.29577.98405
 Source:Nguyen Minh Sang
 
 359 publications in the topic of Decentralised Finance (DeFi) in the business and economic field on the Scopus database
 2021-11-20 | data-set
 
-DOI: 10.13140/RG.2.2.21028.81284
+DOI: https://doi.org/10.13140/RG.2.2.21028.81284
 Source:Nguyen Minh Sang
 
 5046 publications in the topic of Big data in the business and economic field on the Scopus database
 2021-11-20 | data-set
 
-DOI: 10.13140/RG.2.2.17414.50248
+DOI: https://doi.org/10.13140/RG.2.2.17414.50248
 Source:Nguyen Minh Sang
 
 6280 publications in the topic of Digital Transformation on the Research Gate
 2021-11-20 | data-set
 
-DOI: 10.13140/RG.2.2.24148.32642
+DOI: https://doi.org/10.13140/RG.2.2.24148.32642
 Source:Nguyen Minh Sang
 
 The most cited publications in the topic of banks' risk-taking behaviour on Google scholar
 2021-11-20 | data-set
 
-DOI: 10.13140/RG.2.2.17755.28966
+DOI: https://doi.org/10.13140/RG.2.2.17755.28966
 Source:Nguyen Minh Sang
 
 The most cited publications in the topic of E-commerce on Google scholar
 2021-11-20 | data-set
 
-DOI: 10.13140/RG.2.2.11490.04809
+DOI: https://doi.org/10.13140/RG.2.2.11490.04809
 Source:Nguyen Minh Sang
 
 The most cited publications in the topic of FDI on Google scholar
 2021-11-20 | data-set
 
-DOI: 10.13140/RG.2.2.15160.06403
+DOI: https://doi.org/10.13140/RG.2.2.15160.06403
 Source:Nguyen Minh Sang
 
 Capital adequacy ratio and a bank’s financial stability in VietnamBanks and Bank Systems
 2021-11-18 | journal-article
 
-DOI: 10.21511/bbs.16(4).2021.06
+DOI: https://doi.org/10.21511/bbs.16(4).2021.06
 Part of ISSN: 1816-7403
 Part of ISSN: 1991-7074
 Source:Nguyen Minh Sang
@@ -138,578 +138,578 @@ Source:Nguyen Minh Sang
 1732 publications in the topic of Bank capital on the Research Gate
 2021-11-06 | data-set
 
-DOI: 10.13140/RG.2.2.32461.56801
+DOI: https://doi.org/10.13140/RG.2.2.32461.56801
 Source:Nguyen Minh Sang
 
 1324 publications in the topic of Bibliometric analysis on the Scopus
 2021-11 | data-set
 
-DOI: 10.13140/RG.2.2.33811.60969
+DOI: https://doi.org/10.13140/RG.2.2.33811.60969
 Source:Nguyen Minh Sang
 
 20273 publications in the topic of Bibliometric analysis on the Research Gate
 2021-11 | data-set
 
-DOI: 10.13140/RG.2.2.32133.88800
+DOI: https://doi.org/10.13140/RG.2.2.32133.88800
 Source:Nguyen Minh Sang
 
 2316 publications in the topic of Fintech on the Research Gate
 2021-11 | data-set
 
-DOI: 10.13140/RG.2.2.23456.92168
+DOI: https://doi.org/10.13140/RG.2.2.23456.92168
 Source:Nguyen Minh Sang
 
 3133 publications in the topic of Bank lending on the Research Gate
 2021-11 | data-set
 
-DOI: 10.13140/RG.2.2.16379.03368
+DOI: https://doi.org/10.13140/RG.2.2.16379.03368
 Source:Nguyen Minh Sang
 
 6240 publications in the topic of Banking on the Research Gate
 2021-11 | data-set
 
-DOI: 10.13140/RG.2.2.22362.47046/1
+DOI: https://doi.org/10.13140/RG.2.2.22362.47046/1
 Source:Nguyen Minh Sang
 
 The most cited publications on the topic of Entrepreneur on Google scholar
 2021-11 | data-set
 
-DOI: 10.13140/RG.2.2.31170.50883
+DOI: https://doi.org/10.13140/RG.2.2.31170.50883
 Source:Nguyen Minh Sang
 
 The most cited publications on the topic of Green innovation on Google scholar
 2021-10-31 | data-set
 
-DOI: 10.13140/RG.2.2.16569.08803
+DOI: https://doi.org/10.13140/RG.2.2.16569.08803
 Source:Nguyen Minh Sang
 
 Trends in the Bitcoin research
 2021-10-01 | data-set
 
-DOI: 10.17632/F56XFYTPH4.2
+DOI: https://doi.org/10.17632/F56XFYTPH4.2
 Source:Nguyen Minh Sang
 
 Publications on the Macroprudential policy research
 2021-09-27 | data-set
 
-DOI: 10.17632/VK76RHHBDD
+DOI: https://doi.org/10.17632/VK76RHHBDD
 Source:Nguyen Minh Sang
 
 Trends in the Oil price and the stock market research
 2021-09-22 | data-set
 
-DOI: 10.17632/KM22458GRP
+DOI: https://doi.org/10.17632/KM22458GRP
 Source:Nguyen Minh Sang
 
 Publications on the Stock liquidity research
 2021-09-21 | data-set
 
-DOI: 10.17632/42PM4W7BD7
+DOI: https://doi.org/10.17632/42PM4W7BD7
 Source:Nguyen Minh Sang
 
 Publications on the Stagflation research
 2021-09-15 | data-set
 
-DOI: 10.17632/WK7H432Y3W
+DOI: https://doi.org/10.17632/WK7H432Y3W
 Source:Nguyen Minh Sang
 
 Publications on the Financial reform research
 2021-09-14 | data-set
 
-DOI: 10.17632/VKMX8FMCVG
+DOI: https://doi.org/10.17632/VKMX8FMCVG
 Source:Nguyen Minh Sang
 
 Trends in the Crowdfunding research
 2021-09-14 | data-set
 
-DOI: 10.17632/NF3RMMGBFZ
+DOI: https://doi.org/10.17632/NF3RMMGBFZ
 Source:Nguyen Minh Sang
 
 Publications on the Bank run research
 2021-09-10 | data-set
 
-DOI: 10.17632/KPXN6D8ZDF
+DOI: https://doi.org/10.17632/KPXN6D8ZDF
 Source:Nguyen Minh Sang
 
 Publications on the Digital Economy research
 2021-09-10 | data-set
 
-DOI: 10.17632/F8V3F23NTC
+DOI: https://doi.org/10.17632/F8V3F23NTC
 Source:Nguyen Minh Sang
 
 Publications on the Monetary Policy Transmission research
 2021-09-10 | data-set
 
-DOI: 10.17632/KD232WY5PH
+DOI: https://doi.org/10.17632/KD232WY5PH
 Source:Nguyen Minh Sang
 
 Trends in the Financial contagion research
 2021-09-10 | data-set
 
-DOI: 10.17632/3BKFNX6J8G
+DOI: https://doi.org/10.17632/3BKFNX6J8G
 Source:Nguyen Minh Sang
 
 Trends in the Trade openness research
 2021-09-10 | data-set
 
-DOI: 10.17632/4XNZ846CPZ
+DOI: https://doi.org/10.17632/4XNZ846CPZ
 Source:Nguyen Minh Sang
 
 Publications on the Financial Development and Economic Growth research
 2021-08-31 | data-set
 
-DOI: 10.17632/SR4DGZM9D9
+DOI: https://doi.org/10.17632/SR4DGZM9D9
 Source:Nguyen Minh Sang
 
 Articles on Income Inequality
 2021-08-24 | data-set
 
-DOI: 10.17632/DXCDGRPNH6
+DOI: https://doi.org/10.17632/DXCDGRPNH6
 Source:Nguyen Minh Sang
 
 Publications on the Bank market power research
 2021-08-24 | data-set
 
-DOI: 10.17632/9DS3FV5YKF
+DOI: https://doi.org/10.17632/9DS3FV5YKF
 Source:Nguyen Minh Sang
 
 Publications on the Financial feasibility research
 2021-08-24 | data-set
 
-DOI: 10.17632/8KW54KCGWN
+DOI: https://doi.org/10.17632/8KW54KCGWN
 Source:Nguyen Minh Sang
 
 Publications on the Pandemic management research
 2021-08-24 | data-set
 
-DOI: 10.17632/S3WXWT7XWD
+DOI: https://doi.org/10.17632/S3WXWT7XWD
 Source:Nguyen Minh Sang
 
 Trends in the Banking Union research
 2021-08-24 | data-set
 
-DOI: 10.17632/DFB6BMZ7NW
+DOI: https://doi.org/10.17632/DFB6BMZ7NW
 Source:Nguyen Minh Sang
 
 Trends in the Economic freedom research
 2021-08-24 | data-set
 
-DOI: 10.17632/RGSSKCZJRH
+DOI: https://doi.org/10.17632/RGSSKCZJRH
 Source:Nguyen Minh Sang
 
 The Bibliometric Analysis of Economics and Business Research Trends in VietnamRevista Gestão Inovação e Tecnologias
 2021-08-16 | journal-article
 
-DOI: 10.47059/revistageintec.v11i4.2481
+DOI: https://doi.org/10.47059/revistageintec.v11i4.2481
 Part of ISSN: 2237-0722
 Source:Nguyen Minh Sang
 
 COVID-19 cases by province in Vietnam 27.04.2021-29.07.2021
 2021-07-29 | data-set
 
-DOI: 10.17632/NMXSNX4Z64
+DOI: https://doi.org/10.17632/NMXSNX4Z64
 Source:Nguyen Minh Sang
 
 Results of National High School Graduation Exam in Vietnam in 2020-2021
 2021-07-27 | data-set
 
-DOI: 10.17632/C6V4B5GPYS
+DOI: https://doi.org/10.17632/C6V4B5GPYS
 Source:Nguyen Minh Sang
 
 COVID-19 cases by province in Vietnam 27.05.2021-25.07.2021
 2021-07-26 | data-set
 
-DOI: 10.17632/FJTPMNCNPP
+DOI: https://doi.org/10.17632/FJTPMNCNPP
 Source:Nguyen Minh Sang
 
 Publications on the Financial incentives
 2021-07-26 | data-set
 
-DOI: 10.17632/T8D627CXB4
+DOI: https://doi.org/10.17632/T8D627CXB4
 Source:Nguyen Minh Sang
 
 Publications on the Infodemic research
 2021-07-26 | data-set
 
-DOI: 10.17632/RGZZ78V63V
+DOI: https://doi.org/10.17632/RGZZ78V63V
 Source:Nguyen Minh Sang
 
 Vietnam daily Covid-19 cases_27.04.2021-25.07.2021
 2021-07-26 | data-set
 
-DOI: 10.17632/TKRVCFPXDD
+DOI: https://doi.org/10.17632/TKRVCFPXDD
 Source:Nguyen Minh Sang
 
 Publications on the Mobile money research
 2021-07-19 | data-set
 
-DOI: 10.17632/J9SH7W62M4
+DOI: https://doi.org/10.17632/J9SH7W62M4
 Source:Nguyen Minh Sang
 
 Publications on the Shadow banking research
 2021-07-19 | data-set
 
-DOI: 10.17632/GR7JS662Z3
+DOI: https://doi.org/10.17632/GR7JS662Z3
 Source:Nguyen Minh Sang
 
 COVID-19-related articles in the Economic and Business research
 2021-07-12 | data-set
 
-DOI: 10.17632/3K2VJY455S.1
+DOI: https://doi.org/10.17632/3K2VJY455S.1
 Source:Nguyen Minh Sang
 
 Publications on the Asset Price Bubbles research
 2021-07-12 | data-set
 
-DOI: 10.17632/MD3RPF8J45.1
+DOI: https://doi.org/10.17632/MD3RPF8J45.1
 Source:Nguyen Minh Sang
 
 Financial well-being among Vietnamese students
 2021-07-06 | data-set
 
-DOI: 10.17632/N8RR2MXWP3.1
+DOI: https://doi.org/10.17632/N8RR2MXWP3.1
 Source:Nguyen Minh Sang
 
 Publications on the Green finance
 2021-07-06 | data-set
 
-DOI: 10.17632/FGWPF6VYYC.2
+DOI: https://doi.org/10.17632/FGWPF6VYYC.2
 Source:Nguyen Minh Sang
 
 Publications on the Loan default research
 2021-06-29 | data-set
 
-DOI: 10.17632/T6RG23XXW5
+DOI: https://doi.org/10.17632/T6RG23XXW5
 Source:Nguyen Minh Sang
 
 Articles on Financial constraints
 2021-06-22 | data-set
 
-DOI: 10.17632/7P7FG6MGZY
+DOI: https://doi.org/10.17632/7P7FG6MGZY
 Source:Nguyen Minh Sang
 
 Publications on the Peer-To-Peer Lending
 2021-06-22 | data-set
 
-DOI: 10.17632/XZMRG6F4ZB
+DOI: https://doi.org/10.17632/XZMRG6F4ZB
 Source:Nguyen Minh Sang
 
 List of Scopus Indexed Journals_May 2021
 2021-06-21 | data-set
 
-DOI: 10.17632/MZJVZV69P2
+DOI: https://doi.org/10.17632/MZJVZV69P2
 Source:Nguyen Minh Sang
 
 Articles on Financial literacy
 2021-06-16 | data-set
 
-DOI: 10.17632/N7NKZ6JPYF
+DOI: https://doi.org/10.17632/N7NKZ6JPYF
 Source:Nguyen Minh Sang
 
 Publications on the Financial exclusion
 2021-06-16 | data-set
 
-DOI: 10.17632/XS4JP246ZD
+DOI: https://doi.org/10.17632/XS4JP246ZD
 Source:Nguyen Minh Sang
 
 Willingness to donate to the COVID-19 vaccine fund of highly educated people in Vietnam
 2021-06-15 | data-set
 
-DOI: 10.17632/J88F62P7WV
+DOI: https://doi.org/10.17632/J88F62P7WV
 Source:Nguyen Minh Sang
 
 Publications on the Micro credit research
 2021-06-14 | data-set
 
-DOI: 10.17632/6SH3WTHFDK
+DOI: https://doi.org/10.17632/6SH3WTHFDK
 Source:Nguyen Minh Sang
 
 Publications on the Supply chain finance
 2021-06-14 | data-set
 
-DOI: 10.17632/72GRCSH3BG
+DOI: https://doi.org/10.17632/72GRCSH3BG
 Source:Nguyen Minh Sang
 
 Research on the Digital Currency
 2021-06-14 | data-set
 
-DOI: 10.17632/KXS9MMBSN9
+DOI: https://doi.org/10.17632/KXS9MMBSN9
 Source:Nguyen Minh Sang
 
 Trends in the Economic policy uncertainty research
 2021-06-14 | data-set
 
-DOI: 10.17632/748G9BT6PT
+DOI: https://doi.org/10.17632/748G9BT6PT
 Source:Nguyen Minh Sang
 
 Articles on Financial stability
 2021-06-11 | data-set
 
-DOI: 10.17632/YCR7DPX3ZR.1
+DOI: https://doi.org/10.17632/YCR7DPX3ZR.1
 Source:Nguyen Minh Sang
 
 Publications on the Big data research
 2021-06-11 | data-set
 
-DOI: 10.17632/H8BBD67DJP.1
+DOI: https://doi.org/10.17632/H8BBD67DJP.1
 Source:Nguyen Minh Sang
 
 Trends in the Digital marketing research
 2021-06-11 | data-set
 
-DOI: 10.17632/FCGRNJ2JVF.1
+DOI: https://doi.org/10.17632/FCGRNJ2JVF.1
 Source:Nguyen Minh Sang
 
 Publications on the Financial well-being
 2021-06-08 | data-set
 
-DOI: 10.17632/9ZHSVDG8WF
+DOI: https://doi.org/10.17632/9ZHSVDG8WF
 Source:Nguyen Minh Sang
 
 Trends in the Mobile banking research
 2021-06-08 | data-set
 
-DOI: 10.17632/ZVFYRHY8MH
+DOI: https://doi.org/10.17632/ZVFYRHY8MH
 Source:Nguyen Minh Sang
 
 32 years of research in Green economy
 2021-06-04 | data-set
 
-DOI: 10.17632/Y99DGW49RP.1
+DOI: https://doi.org/10.17632/Y99DGW49RP.1
 Source:Nguyen Minh Sang
 
 Articles on Blockchain
 2021-06-04 | data-set
 
-DOI: 10.17632/2H6J49F4CS
+DOI: https://doi.org/10.17632/2H6J49F4CS
 Source:Nguyen Minh Sang
 
 Articles on Microfinance
 2021-06-04 | data-set
 
-DOI: 10.17632/GJMR4D9W6H
+DOI: https://doi.org/10.17632/GJMR4D9W6H
 Source:Nguyen Minh Sang
 
 Publications on the Fintech research
 2021-06-04 | data-set
 
-DOI: 10.17632/BZ9HRKSPNW
+DOI: https://doi.org/10.17632/BZ9HRKSPNW
 Source:Nguyen Minh Sang
 
 Publications on the Financial inclusion
 2021-06-03 | data-set
 
-DOI: 10.17632/WNVRZYRVCJ
+DOI: https://doi.org/10.17632/WNVRZYRVCJ
 Source:Nguyen Minh Sang
 
 Publication trends in Financial integration research
 2021-05-28 | data-set
 
-DOI: 10.17632/DRXCTKZB4N
+DOI: https://doi.org/10.17632/DRXCTKZB4N
 Source:Nguyen Minh Sang
 
 Systematic Reviews on the Topic of the Bank efficiency
 2021-05-28 | data-set
 
-DOI: 10.17632/D45WYTKCNY
+DOI: https://doi.org/10.17632/D45WYTKCNY
 Source:Nguyen Minh Sang
 
 Trends in Publications on the Economic crises on Scopus
 2021-05-28 | data-set
 
-DOI: 10.17632/V3PHR3RNNW
+DOI: https://doi.org/10.17632/V3PHR3RNNW
 Source:Nguyen Minh Sang
 
 Bibliometric analysis of The Journal of Financial Economics
 2021-05-25 | data-set
 
-DOI: 10.17632/8N927TKDFC
+DOI: https://doi.org/10.17632/8N927TKDFC
 Source:Nguyen Minh Sang
 
 Review of Financial Studies_1996-2021
 2021-05-25 | data-set
 
-DOI: 10.17632/TXBSW7SD2P
+DOI: https://doi.org/10.17632/TXBSW7SD2P
 Source:Nguyen Minh Sang
 
 Seventy-six years of Journal of Finance
 2021-05-25 | data-set
 
-DOI: 10.17632/G2CH4VBY5H
+DOI: https://doi.org/10.17632/G2CH4VBY5H
 Source:Nguyen Minh Sang
 
 Forty-five years of Journal of Banking and Finance
 2021-05-21 | data-set
 
-DOI: 10.17632/2KKKSFK73R
+DOI: https://doi.org/10.17632/2KKKSFK73R
 Source:Nguyen Minh Sang
 
 Machine learning research in Banking
 2021-05-21 | data-set
 
-DOI: 10.17632/5BRZMNCKZG
+DOI: https://doi.org/10.17632/5BRZMNCKZG
 Source:Nguyen Minh Sang
 
 The dataset for bibliometric analysis of economics and business research trends in Vietnam
 2021-05-12 | data-set
 
-DOI: 10.17632/63VHBKNDNS
+DOI: https://doi.org/10.17632/63VHBKNDNS
 Source:Nguyen Minh Sang
 
 Impact of the COVID-19 pandemic on the banking sectors: A dataset of Vietnamese commercial banks
 2021-04-29 | data-set
 
-DOI: 10.17632/4RGPF7YH7B.1
+DOI: https://doi.org/10.17632/4RGPF7YH7B.1
 Source:Nguyen Minh Sang
 
 1000 nghiên cứu được trích dẫn nhiều nhất về chủ đề Năng lực cạnh tranh trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.30464.35849
+DOI: https://doi.org/10.13140/RG.2.2.30464.35849
 Source:Nguyen Minh Sang
 
 346 nghiên cứu được trích dẫn nhiều nhất về chủ đề Nợ xấu tại Việt Nam trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.36650.95688
+DOI: https://doi.org/10.13140/RG.2.2.36650.95688
 Source:Nguyen Minh Sang
 
 549 nghiên cứu mới nhất về chủ đề Rủi ro lãi suất tại Việt Nam trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.21197.56807
+DOI: https://doi.org/10.13140/RG.2.2.21197.56807
 Source:Nguyen Minh Sang
 
 610 nghiên cứu được trích dẫn nhiều nhất về chủ đề Rủi ro thanh khoản tại Việt Nam trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.23543.75683
+DOI: https://doi.org/10.13140/RG.2.2.23543.75683
 Source:Nguyen Minh Sang
 
 990 nghiên cứu mới nhất về chủ đề Rủi ro tín dụng tại Việt Nam trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.30792.03840
+DOI: https://doi.org/10.13140/RG.2.2.30792.03840
 Source:Nguyen Minh Sang
 
 arXiv_Quantitative finance_Top 2500 recent submissions_October 2021
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.32689.30564
+DOI: https://doi.org/10.13140/RG.2.2.32689.30564
 Source:Nguyen Minh Sang
 
 Bank competition - Top 980 cited publications on Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.23756.74886
+DOI: https://doi.org/10.13140/RG.2.2.23756.74886
 Source:Nguyen Minh Sang
 
 Bank stability - Top 924 cited publications on Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.30323.45600
+DOI: https://doi.org/10.13140/RG.2.2.30323.45600
 Source:Nguyen Minh Sang
 
 Credit risk - Top 980 cited publications on Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.13231.66725
+DOI: https://doi.org/10.13140/RG.2.2.13231.66725
 Source:Nguyen Minh Sang
 
 Economic Growth and Carbon Emissions - Top 606 cited publications on Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.30467.63520
+DOI: https://doi.org/10.13140/RG.2.2.30467.63520
 Source:Nguyen Minh Sang
 
 Economic Uncertainty - Top 990 cited publications on Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.12871.21923
+DOI: https://doi.org/10.13140/RG.2.2.12871.21923
 Source:Nguyen Minh Sang
 
 Most cited publications on the topic of Bank transparency on Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.34855.27048
+DOI: https://doi.org/10.13140/RG.2.2.34855.27048
 Source:Nguyen Minh Sang
 
 Publications on the Access to Finance research
 2021 | data-set
 
-DOI: 10.17632/TSNPH5TTVX
+DOI: https://doi.org/10.17632/TSNPH5TTVX
 Source:Nguyen Minh Sang
 
 Publications on the Deposit insurance research
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.24159.79522
+DOI: https://doi.org/10.13140/RG.2.2.24159.79522
 Source:Nguyen Minh Sang
 
 Publications on the topic of Machine learning and Bank risk on the Scopus Database
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.16469.14564
+DOI: https://doi.org/10.13140/RG.2.2.16469.14564
 Source:Nguyen Minh Sang
 
 The latest articles of Journal of Banking and Finance
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.21143.50082
+DOI: https://doi.org/10.13140/RG.2.2.21143.50082
 Source:Nguyen Minh Sang
 
 Top 236 publications on the topic of Access to finance on the Scopus database
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.17756.92801
+DOI: https://doi.org/10.13140/RG.2.2.17756.92801
 Source:Nguyen Minh Sang
 
 Top 442 most cited publications on the topic of Banking model on Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.30660.96646
+DOI: https://doi.org/10.13140/RG.2.2.30660.96646
 Source:Nguyen Minh Sang
 
 Top 490 cited publications on the topic of Monetary Policy Transmission on Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.16128.35848
+DOI: https://doi.org/10.13140/RG.2.2.16128.35848
 Source:Nguyen Minh Sang
 
 Top 694 publications on the topic of Economic uncertainty and Bank risk on the Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.26194.68802
+DOI: https://doi.org/10.13140/RG.2.2.26194.68802
 Source:Nguyen Minh Sang
 
 Top 830 most cited publications on the topic of Credit rating on Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.20304.64007
+DOI: https://doi.org/10.13140/RG.2.2.20304.64007
 Source:Nguyen Minh Sang
 
 Top 920 most cited publications on the topic of Consumer credit on Google scholarUnpublished
 2021 | journal-article
 
-DOI: 10.13140/RG.2.2.31178.70081
+DOI: https://doi.org/10.13140/RG.2.2.31178.70081
 Source:Nguyen Minh Sang
 
 Top 980 most cited publications on the topic of Bank competition and financial stability on Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.10185.88168
+DOI: https://doi.org/10.13140/RG.2.2.10185.88168
 Source:Nguyen Minh Sang
 
 Top 980 most cited publications on the topic of Bank regulation on Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.34383.41127
+DOI: https://doi.org/10.13140/RG.2.2.34383.41127
 Source:Nguyen Minh Sang
 
 Top publications on the topic of Big data in banking on Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.25966.95040
+DOI: https://doi.org/10.13140/RG.2.2.25966.95040
 Source:Nguyen Minh Sang
 
 Tác động của lạm phát đến tăng trưởng kinh tế các nước Đông Nam Á và khuyến nghị với Việt NamTạp chí Thị trường tài chính tiền tệ ISSN: 1859-2805
@@ -725,121 +725,121 @@ Source:Nguyen Minh Sang
 Tổng hợp các nghiên cứu về chủ đề Khả năng sinh lời của ngân hàng trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.22364.10882
+DOI: https://doi.org/10.13140/RG.2.2.22364.10882
 Source:Nguyen Minh Sang
 
 Tổng hợp các nghiên cứu về chủ đề Khởi nghiệp trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.31519.48807
+DOI: https://doi.org/10.13140/RG.2.2.31519.48807
 Source:Nguyen Minh Sang
 
 Tổng hợp các nghiên cứu về chủ đề Lựa chọn ngân hàng trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.30307.07204
+DOI: https://doi.org/10.13140/RG.2.2.30307.07204
 Source:Nguyen Minh Sang
 
 Tổng hợp các nghiên cứu về chủ đề Nợ công tại Việt Nam trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.32476.31361
+DOI: https://doi.org/10.13140/RG.2.2.32476.31361
 Source:Nguyen Minh Sang
 
 Tổng hợp các nghiên cứu về chủ đề Phát triển kinh tế trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.28229.58082
+DOI: https://doi.org/10.13140/RG.2.2.28229.58082
 Source:Nguyen Minh Sang
 
 Tổng hợp các nghiên cứu về chủ đề Quyết định sử dụng dịch vụ trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.33819.80167
+DOI: https://doi.org/10.13140/RG.2.2.33819.80167
 Source:Nguyen Minh Sang
 
 Tổng hợp các nghiên cứu về chủ đề Rủi ro tỷ giá trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.22409.98408
+DOI: https://doi.org/10.13140/RG.2.2.22409.98408
 Source:Nguyen Minh Sang
 
 Tổng hợp các nghiên cứu về chủ đề Trách nhiệm xã hội trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.20660.17284
+DOI: https://doi.org/10.13140/RG.2.2.20660.17284
 Source:Nguyen Minh Sang
 
 Tổng hợp các nghiên cứu về chủ đề Tài chính toàn diện trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.34081.94566
+DOI: https://doi.org/10.13140/RG.2.2.34081.94566
 Source:Nguyen Minh Sang
 
 Tổng hợp các nghiên cứu về chủ đề Xây dựng thương hiệu trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.32430.43845
+DOI: https://doi.org/10.13140/RG.2.2.32430.43845
 Source:Nguyen Minh Sang
 
 Tổng hợp các nghiên cứu về chủ đề Động lực làm việc trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.11013.27362
+DOI: https://doi.org/10.13140/RG.2.2.11013.27362
 Source:Nguyen Minh Sang
 
 Tổng hợp tất cả 235 nghiên cứu về chủ đề Ý định mua của khách hàng trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.27790.48964
+DOI: https://doi.org/10.13140/RG.2.2.27790.48964
 Source:Nguyen Minh Sang
 
 Tổng quan 996 nghiên cứu về chủ đề Chính sách tài khóa trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.31644.00648
+DOI: https://doi.org/10.13140/RG.2.2.31644.00648
 Source:Nguyen Minh Sang
 
 Tổng quan các nghiên cứu về chủ đề Chính sách tiền tệ trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.32482.86724
+DOI: https://doi.org/10.13140/RG.2.2.32482.86724
 Source:Nguyen Minh Sang
 
 Tổng quan các nghiên cứu về chủ đề Hiệu quả tín dụng trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.20738.81601
+DOI: https://doi.org/10.13140/RG.2.2.20738.81601
 Source:Nguyen Minh Sang
 
 Tổng quan các nghiên cứu về chủ đề Mobile banking tại Việt Nam trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.34475.16169
+DOI: https://doi.org/10.13140/RG.2.2.34475.16169
 Source:Nguyen Minh Sang
 
 Tổng quan các nghiên cứu về chủ đề Tiếp cận vốn trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.15627.00807
+DOI: https://doi.org/10.13140/RG.2.2.15627.00807
 Source:Nguyen Minh Sang
 
 Tổng quan các nghiên cứu về chủ đề Truyền miệng điện tử (eWOM) trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.11432.70404
+DOI: https://doi.org/10.13140/RG.2.2.11432.70404
 Source:Nguyen Minh Sang
 
 Tổng quan các nghiên cứu về chủ đề Tài chính vi mô trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.25693.33762
+DOI: https://doi.org/10.13140/RG.2.2.25693.33762
 Source:Nguyen Minh Sang
 
 Tổng quan các nghiên cứu về chủ đề Đầu tư trực tiếp nước ngoài trên Google scholar
 2021 | data-set
 
-DOI: 10.13140/RG.2.2.21892.24963
+DOI: https://doi.org/10.13140/RG.2.2.21892.24963
 Source:Nguyen Minh Sang
 
 Ứng dụng trí tuệ nhân tạo đối với hoạt động quản lý rủi ro tín dụng tại các ngân hàng thương mại Việt NamTạp chí Ngân hàng (ISSN: 0866-7462)
@@ -850,7 +850,7 @@ Source:Nguyen Minh Sang
 Analysis of the impact from non-interest income to the operational efficiency of commercial banks in VietnamManagement Science Letters
 2020 | journal-article
 
-DOI: 10.5267/j.msl.2019.8.025
+DOI: https://doi.org/10.5267/j.msl.2019.8.025
 EID: 2-s2.0-85073670584
 Part of ISSN: 19239343 19239335
 Source:Nguyen Minh Sang
@@ -858,7 +858,7 @@ Source:Nguyen Minh Sang
 Does banking market power matter on financial stability?Management Science Letters
 2020 | journal-article
 
-DOI: 10.5267/j.msl.2019.8.036
+DOI: https://doi.org/10.5267/j.msl.2019.8.036
 EID: 2-s2.0-85073671805
 Part of ISSN: 19239343 19239335
 Source:Nguyen Minh Sang
@@ -871,7 +871,7 @@ Source:Nguyen Minh Sang
 The Effect of Trade Integration on Business Cycle Synchronization in East AsiaThe Journal of Asian Finance, Economics, and Business
 2020 | journal-article
 
-DOI: 10.13106/JAFEB.2020.VOL7.NO8.225
+DOI: https://doi.org/10.13106/JAFEB.2020.VOL7.NO8.225
 EID: 2-s2.0-85090050550
 Part of ISSN: 22884645 22884637
 Source:Nguyen Minh Sang
@@ -899,7 +899,7 @@ Source:Nguyen Minh Sang
 Evaluating the Efficiency of Microfinance Institutions in Vietnam and the Impact of This Efficiency on Poverty ReductionGlobal Tensions in Financial Markets
 2018-03-19 | book-chapter
 
-DOI: 10.1108/s0196-382120170000034008
+DOI: https://doi.org/10.1108/s0196-382120170000034008
 Part of ISBN: 9781787148406
 Part of ISBN: 9781787148390
 Part of ISSN: 0196-3821
@@ -928,7 +928,7 @@ Source:Nguyen Minh Sang
 Revenue Diversification and Total Assets in Commercial Banks: Evidence from Selected Asean CountriesJournal of Economics and Development
 2018 | journal-article
 
-DOI: 10.33301/jed-p-2018-20-03-02
+DOI: https://doi.org/10.33301/jed-p-2018-20-03-02
 Part of ISSN: 1859-0020
 Source:Nguyen Minh Sang
 
@@ -975,7 +975,7 @@ Source:Nguyen Minh Sang
 Income Diversification and Bank Efficiency in VietnamJournal of Economics and Development
 2017 | journal-article
 
-DOI: 10.33301/jed.2017.19.03.04
+DOI: https://doi.org/10.33301/jed.2017.19.03.04
 Part of ISSN: 1859-0020
 Source:Nguyen Minh Sang
 
